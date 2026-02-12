@@ -1,0 +1,16 @@
+{
+  "name": "project-backend",
+  "version": "1.0.0",
+  "description": "a mega-project backend coded just to get the deep knowledge of backend",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "Chaudhary Abdullah",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
